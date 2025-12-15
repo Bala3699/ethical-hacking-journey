@@ -1,24 +1,42 @@
-# 👋 Hi, I'm Balamurugan
+# 🔐 Ethical Hacking Journey – Balamurugan
 
-🔐 Ethical Hacker | Cybersecurity Enthusiast  
-🎓 B.Tech CSE | CCNA Certified  
+Welcome to my cybersecurity learning documentation.
 
-## 🧠 Skills
-- Networking (TCP/IP, OSI)
-- Linux Fundamentals
-- Python Basics
-- Ethical Hacking Concepts
+## 📘 Learning Repositories
 
-## 🛠 Tools
-- Nmap
-- Wireshark
-- Burp Suite
-- Metasploit
+### 🌐 Networking
+➡️ https://github.com/Bala3699/networking/blob/main/networking/chapter-1-introduction.md
 
-## 📂 Learning Focus
-- Network Security
-- Web Application Security
-- CTF Practice (TryHackMe)
-- Security Projects
+Topics:
+- OSI Model
+- TCP/IP
+- DNS
+- Routing & Switching
 
-⚠️ For educational purposes only.
+---
+
+### 🐧 Linux
+➡️ https://github.com/Bala3699/kali-linux
+
+Topics:
+- Basic commands
+- File permissions
+- Process management
+
+---
+
+### 🧪 CTF Practice
+➡️ https://github.com/Bala3699/tryhackme-ctf-notes
+
+Platforms:
+- TryHackMe
+- Hack The Box
+
+---
+
+### 🚀 Python
+➡️ https://github.com/Bala3699/python
+
+
+
+⚠️ Educational use only.
