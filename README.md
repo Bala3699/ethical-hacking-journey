@@ -5,7 +5,10 @@ Welcome to my cybersecurity learning documentation.
 ## 📘 Learning Repositories
 
 ### 🌐 Networking
-➡️ https://github.com/Bala3699/networking/blob/main/networking/chapter-1-introduction.md
+➡️ <a href="https://github.com/Bala3699/networking" target="_blank">
+🔗 Networking Repo
+</a>
+
 
 Topics:
 - OSI Model
