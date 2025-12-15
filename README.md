@@ -5,9 +5,7 @@ Welcome to my cybersecurity learning documentation.
 ## 📘 Learning Repositories
 
 ### 🌐 Networking
-➡️ <a href="https://github.com/Bala3699/networking" target="_blank">
-🔗 Networking Repo
-</a>
+➡️ [Networking Repository](https://github.com/Bala3699/networking)
 
 
 Topics:
@@ -19,7 +17,7 @@ Topics:
 ---
 
 ### 🐧 Linux
-➡️ https://github.com/Bala3699/kali-linux
+➡️ [Linux](https://github.com/Bala3699/kali-linux)
 
 Topics:
 - Basic commands
@@ -29,7 +27,7 @@ Topics:
 ---
 
 ### 🧪 CTF Practice
-➡️ https://github.com/Bala3699/tryhackme-ctf-notes
+➡️ [Ctf](https://github.com/Bala3699/tryhackme-ctf-notes)
 
 Platforms:
 - TryHackMe
@@ -38,7 +36,7 @@ Platforms:
 ---
 
 ### 🚀 Python
-➡️ https://github.com/Bala3699/python
+➡️ [Python](https://github.com/Bala3699/python)
 
 
 
